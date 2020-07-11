@@ -15,5 +15,5 @@ Ejecución:
   - Ejecutar el proyecto:
     processing-java --sketch=CodeVID --run <tiempo_de_ejecución>
    
-  -Generar PDF resultante:
+  - Generar PDF resultante:
     pdflatex main.tex
